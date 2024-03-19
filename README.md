@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Second year computer science student at Tampere University, Finland. My main interest include desktop application and backend development. Most experience in Python, some in C++ and a little in Java.
+Second year computer science student at Tampere University, Finland. My main interests include desktop application and backend development. Most experience in Python, some in C++ and a little in Java.
 
 <!--
 **ehkuitti/ehkuitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
